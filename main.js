@@ -1,5 +1,5 @@
 import * as THREE from "three"
-import "style.css"
+import "./style.css"
 import gsap from "gsap"
 import {OrbitControls} from "three/examples/jsm/controls/OrbitControls"
 
